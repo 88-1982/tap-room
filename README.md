@@ -5,17 +5,16 @@
 
 # Description
 
-## A website for establishments selling alcohol to manage how their kegs, and their kegs' contents.
+ A website for establishments selling alcohol to manage how their kegs, and their kegs' contents.
 
-# Built with 
+# Built with
+Visual studio Code
+JavaScript
+React
 
-## VS Code
-## JavaScript
-## React
-# GitHub
 
 # Component tree
-
+https://github.com/88-1982/tap-room/blob/main/src/img/tap-room-component-tree.png
 
 
 
